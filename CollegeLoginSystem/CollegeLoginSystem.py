@@ -13,6 +13,9 @@ def createUser(userBase,password):
     users.append(userName)
     print(users)
 
+def userCheck():
+    print('true')
+
 def userLogin():
     print('test')
 
